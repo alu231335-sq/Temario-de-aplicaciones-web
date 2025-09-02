@@ -16,7 +16,7 @@ El desarrollo web ha evolucionado significativamente desde la creación de la Wo
 - 
 - **PWA (Progressive Web Application)**: Son aplicaciones web que ofrecen una experiencia similar a las aplicaciones nativas, incluyendo capacidades offline, notificaciones push y acceso al hardware del dispositivo. Se pueden instalar en el dispositivo del usuario y funcionan incluso sin conexión a internet.
 
-- <img width="177" height="115" alt="image" src="https://github.com/user-attachments/assets/e6d9577f-a5e8-43fa-8524-5601864f91ce" />
+- <img width="200" height="130" alt="image" src="https://github.com/user-attachments/assets/e6d9577f-a5e8-43fa-8524-5601864f91ce" />
 
 ## 2. Arquitectura de aplicaciones web
 
@@ -70,6 +70,9 @@ El uso de ramas (branching) permite desarrollar nuevas características, corregi
 - **Merge (fusión)**: Una vez que los cambios en la rama están listos y probados, se fusionan con la rama principal.
 - 
 - **Pull Requests**: En plataformas como GitHub, se utiliza un pull request para solicitar la revisión y fusión de los cambios, lo que mejora la colaboración y la calidad del código mediante revisiones por otros miembros del equipo.
+
+- <img width="300" height="180" alt="image" src="https://github.com/user-attachments/assets/d19cbe2f-297f-4579-ab45-7f875d826234" />
+
 
 # Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web
 
