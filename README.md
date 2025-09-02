@@ -7,7 +7,8 @@
 ### Historia y evolución del desarrollo web
 El desarrollo web ha evolucionado significativamente desde la creación de la World Wide Web por Tim Berners-Lee en 1989. Inicialmente, los sitios web eran simples documentos de texto estáticos accesibles mediante navegadores básicos. Con el tiempo, la web incorporó imágenes, estilos CSS, interactividad mediante JavaScript y la capacidad de comunicarse con servidores, permitiendo la creación de aplicaciones más complejas. La aparición de frameworks, bibliotecas, y tecnologías como AJAX, HTML5 y CSS3 han marcado hitos importantes en la evolución del desarrollo web.
 
-### Tipos de aplicaciones web
+### Tipos de aplicaciones web  
+
 - **Aplicaciones web estáticas**: Son páginas cuyo contenido no cambia en función de la interacción del usuario. Se crean principalmente con HTML y CSS, y su funcionalidad es limitada.
 - 
 - **Aplicaciones web dinámicas**: El contenido puede cambiar según la interacción del usuario o información proveniente del servidor. Utilizan tecnologías como JavaScript, PHP, Python, bases de datos, etc.
@@ -16,7 +17,7 @@ El desarrollo web ha evolucionado significativamente desde la creación de la Wo
 - 
 - **PWA (Progressive Web Application)**: Son aplicaciones web que ofrecen una experiencia similar a las aplicaciones nativas, incluyendo capacidades offline, notificaciones push y acceso al hardware del dispositivo. Se pueden instalar en el dispositivo del usuario y funcionan incluso sin conexión a internet.
 
-- <img width="200" height="130" alt="image" src="https://github.com/user-attachments/assets/e6d9577f-a5e8-43fa-8524-5601864f91ce" />
+- <img width="300" height="130" alt="image" src="https://github.com/user-attachments/assets/e6d9577f-a5e8-43fa-8524-5601864f91ce" />
 
 ## 2. Arquitectura de aplicaciones web
 
@@ -112,7 +113,10 @@ El backend implementa operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para 
 La validación en el frontend y backend previene la entrada de datos incorrectos o maliciosos, mejorando la seguridad y experiencia del usuario.
 
 ### Autenticación y autorización
-La autenticación garantiza que solo usuarios válidos accedan al sistema, mientras que la autorización controla los permisos de cada usuario sobre los recursos y funcionalidades de la aplicación.
+La autenticación garantiza que solo usuarios válidos accedan al sistema, mientras que la autorización controla los permisos de cada usuario sobre los recursos y funcionalidades de la aplicación.  
+
+<img width="300" height="130" alt="image" src="https://github.com/user-attachments/assets/53190a67-892a-428d-a82c-19b25e7a19e2" />
+
 
 # Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional.  
 
@@ -150,6 +154,9 @@ El despliegue consiste en publicar la aplicación web en un servidor o servicio 
 La Integración Continua y el Despliegue Continuo (CI/CD) permiten automatizar pruebas y despliegues, asegurando rapidez y confiabilidad en la entrega de nuevas versiones del software.
 
 ### Documentación del proyecto
-La documentación clara y accesible del proyecto facilita el mantenimiento, la colaboración y el uso por parte de otros desarrolladores y usuarios.
+La documentación clara y accesible del proyecto facilita el mantenimiento, la colaboración y el uso por parte de otros desarrolladores y usuarios.  
+
+<img width="300" height="130" alt="image" src="https://github.com/user-attachments/assets/09be13b1-7025-4d72-8c3d-5b362d6e81b2" />
+
 
 
