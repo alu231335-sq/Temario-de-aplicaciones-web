@@ -1,6 +1,6 @@
 # Temario-de-aplicaciones-web  
 
-# Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
+## Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
 
 ## 1. Introducción al desarrollo web  
 
@@ -15,6 +15,8 @@ El desarrollo web ha evolucionado significativamente desde la creación de la Wo
 - **SPA (Single Page Application)**: Las aplicaciones de una sola página cargan una única página HTML y actualizan dinámicamente el contenido a medida que el usuario interactúa, sin necesidad de recargar toda la página. Ejemplos: React, Angular, Vue.
 - 
 - **PWA (Progressive Web Application)**: Son aplicaciones web que ofrecen una experiencia similar a las aplicaciones nativas, incluyendo capacidades offline, notificaciones push y acceso al hardware del dispositivo. Se pueden instalar en el dispositivo del usuario y funcionan incluso sin conexión a internet.
+
+- <img width="177" height="115" alt="image" src="https://github.com/user-attachments/assets/e6d9577f-a5e8-43fa-8524-5601864f91ce" />
 
 ## 2. Arquitectura de aplicaciones web
 
